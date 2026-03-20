@@ -21,4 +21,4 @@ Repositori ini berisi hasil praktikum Basis Data A1 tahun 2025 dengan menggunaka
 ---
 
 **Dibuat oleh:** Alfauzi-S  
-**Tahun:** 2025
+**Tahun:** 2026
